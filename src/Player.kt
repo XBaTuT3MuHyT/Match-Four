@@ -1,0 +1,1 @@
+data class Player(val id: Short, val name: String, val token: Token)
