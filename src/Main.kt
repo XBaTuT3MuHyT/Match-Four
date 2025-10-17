@@ -9,5 +9,6 @@ fun main(){
     val game = Game(board, firstPlayer, secondPlayer)
 
     board.printBoard()
+    game.start()
 
 }
